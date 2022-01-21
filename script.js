@@ -1,4 +1,4 @@
-let weather={
+let weathers={
     apikey:"838eaab58a790ddc222c4c09cb442591",
     fetchWeather:function(city){
         fetch("https://api.openweathermap.org/data/2.5/weather?q="
